@@ -1,45 +1,56 @@
 # Library-Management-
+
 # AIM: 
+
          To study the probiem statement, SRS document and draw all the UML diagrams of 
 a Library Managerment System. 
 
 
-# PROBLEM STATEMENT:  
+# PROBLEM STATEMENT: 
+
                To create Library Management System software that will meet the needs of the 
 applicat and help them to registering and buy the book for the Library, modification in 
 database and cancellation for the registered project. 
 
 
 # OVERALL DESCRIPTION: 
+
                The Library Management System is an integrated system that has 
 four modules as part of it. The four modules are 
 
 
-# Registration for Membership: 
+# Registration for Membership:
+
             In this module, the user can select the books to register for the library, 
 Modification in the book database, cancelling the books 
 
 
 # Book details: 
+
      In this module the user can search for the books by giving bookie in the project and 
 selecting the semester for the book 
 
 # Maintaining Book Details: 
+
      In this module the administrator can change the data's like the semester, address, 
 books can be done.
 
 # Cancellation for the Book: 
+
            In this module the user can cancel their name which is registered for the Book.
            
 # SOFTWARE REQUIREMENTS: 
+
        Rational Rose 
        SQL 8.0 
        
-# HARDWARE REQUIREMENTS: 
+# HARDWARE REQUIREMENTS:
+
        1.512MB RAM 
        2.Pentium III Processor
        
 # USECASE DIAGRAM:
+
               A use case is a methodology used in system analysis to identify, clarify, and 
 organize system requirements. The use case is made up of a set of possible sequences 
 of interactions between systems and users in a particular environment and related to a 
@@ -48,6 +59,7 @@ use of the system being modeled.
 ![5](https://github.com/user-attachments/assets/59c3a52c-89ba-4553-8889-d20b8f64fe45)
 
 # ACTIVITY DIAGRAM
+
               An activity diagram is a variation or special case of a state machine in 
 which the states or activity representing the performance of operation and transitions 
 are triggered by the completion of operation. The purpose is to provide view of close and 
@@ -57,6 +69,7 @@ rounded box containing the name of operation
 ![1](https://github.com/user-attachments/assets/6ee5f65f-4419-432b-bb64-6d60413d868c)
 
 # COMMUNICATION DIAGRAM
+
                   A collaboration diagram is similar to sequence diagram but the message in 
 number format. In a collaboration diagram sequence diagram is indicated by the 
 numbering the message. A collaboration diagram, also called a communication 
@@ -85,6 +98,7 @@ There are three types of layer. They are
 ![Screenshot 2024-10-21 200605](https://github.com/user-attachments/assets/54d82d25-71e2-40b0-b3ca-b8ffa61d2454)
 
 # CLASS DIAGRAM
+
              A class is drawn as rectangle box with three compartments or components 
 separated by horizontal lines. The top compartment holds the class name and middle 
 compartment holds the attribute and bottom compartment holds list of operations.
@@ -94,6 +108,7 @@ compartment holds the attribute and bottom compartment holds list of operations.
 
 
 # SEQUENCE DIAGRAM
+
              A sequence diagram in Unified Modeling Language (UML) is a kind of 
 interaction diagram that shows how processes operate with one another and in what order.
 
@@ -101,4 +116,5 @@ interaction diagram that shows how processes operate with one another and in wha
 
 
 # RESULT:
+
 Thus The Library Management System project was executed and the output was verified.
